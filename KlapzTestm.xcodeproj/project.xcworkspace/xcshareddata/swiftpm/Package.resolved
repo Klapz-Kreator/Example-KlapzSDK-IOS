@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Klapz",
+        "repositoryURL": "https://github.com/Navhal111/KlapzSdkIOS.git",
+        "state": {
+          "branch": "Klapz12",
+          "revision": "171003fd5afe3f6366b88971a861f3b4cf029c6e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
